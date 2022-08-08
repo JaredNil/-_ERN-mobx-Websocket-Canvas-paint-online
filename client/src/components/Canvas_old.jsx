@@ -106,4 +106,4 @@ const Canvas = observer(() => {
 	);
 });
 
-export default Canvas;
+// export default Canvas;
